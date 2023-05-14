@@ -11,7 +11,6 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
     - [Sudoku](#id1.2)
     - [Flappy Bird](#id1.3)
     - [Ajedrez](#id1.4)
-    - [Find the Shortest Path](#id1.5)
     - [Laberinto](#id1.6)
 
  2. [Algoritmos de resolución sencillos](#id2)
@@ -43,8 +42,6 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 <a href=https://github.com/JavierAM01/Juego-Sudoku> ver código </a>
 
-<a href=https://github.com/JavierAM01/Juego-Sudoku-2> ver código </a>
-
 ## Flappy Bird <a name=id1.3> </a>
 
 <div style="text-align:center;">
@@ -60,10 +57,6 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 </div>
 
 <a href=https://github.com/JavierAM01/Juego-Ajedrez> ver código </a>
-
-## Find the Shortest Path <a name=id1.5> </a>
-
-<a href=https://github.com/JavierAM01/Juego-ShortestPath> ver código </a>
 
 ## Laberinto <a name=id1.6> </a>
 
