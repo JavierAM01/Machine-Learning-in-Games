@@ -2,7 +2,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
    1) **Desarrollo de videojuegos.** Creación de videojuegos para uso común del usuario.
    2) **Algoritmos de resolución sencillos.** En esta sección desarrollaremos algoritmos sencillos para resolver y pasarnos los juegos, como busqueda binaria, tree search y sistemas expertos (distinción de casos).
-   3) **Algortimos de aprendizaje automático.** En esta sección aplicaremos las técnicas más avanzadas, aunque no por ello son siempre la mejor opción, como: machine learning, deep learning y algoritmos genéticos.
+   3) **Algoritmos de aprendizaje automático.** En esta sección aplicaremos técnicas más avanzadas, aunque no por ello son siempre la mejor opción, como: machine learning, deep learning y algoritmos genéticos.
 
 # Índice
  
@@ -62,7 +62,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 
 
-# Algortimos de aprendizaje automático <a name=id3> </a>
+# Algoritmos de aprendizaje automático <a name=id3> </a>
 
 ## Flappy Bird - Algoritmo Genético <a name=id3.1> </a>
 
