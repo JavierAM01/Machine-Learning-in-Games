@@ -67,6 +67,10 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 ## Laberinto <a name=id1.6> </a>
 
+<div style="text-align:center;">
+  <image src="/images/laberinto.gif" style="width:100%; height:12cm;">
+</div>
+
 <a href=https://github.com/JavierAM01/Juego-Laberinto-Versiones> ver código </a>
 
 
