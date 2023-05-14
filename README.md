@@ -12,6 +12,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
     - [Flappy Bird](#id1.3)
     - [Ajedrez](#id1.4)
     - [Laberinto](#id1.6)
+    - [Arkanoid](#id1.7)
 
  2. [Algoritmos de resolución sencillos](#id2)
     - [Sudoku](#id2.1)
@@ -65,6 +66,14 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 </div>
 
 <a href=https://github.com/JavierAM01/Juego-Laberinto-Versiones> ver código </a>
+
+## Arkanoid <a name=id1.7> </a>
+
+<div style="text-align:center;">
+  <image src="/images/arkanoid.gif" style="width:100%; height:12cm;">
+</div>
+
+<a href=https://github.com/JavierAM01/Juego-Arkanoid> ver código </a>
 
 
 
