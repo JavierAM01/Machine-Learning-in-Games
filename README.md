@@ -29,9 +29,17 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 ## Snake <a name=id1.1> </a>
 
+<div style="text-align:center;">
+  <image src="/images/snake.gif" style="width:100%; height:12cm;">
+</div>
+
 <a href=https://github.com/JavierAM01/Juego-Snake> ver código </a>
 
 ## Sudoku <a name=id1.2> </a>
+
+<div style="text-align:center;">
+  <image src="/images/sudoku.gif" style="width:100%; height:12cm;">
+</div>
 
 <a href=https://github.com/JavierAM01/Juego-Sudoku> ver código </a>
 
@@ -39,9 +47,17 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 ## Flappy Bird <a name=id1.3> </a>
 
+<div style="text-align:center;">
+  <image src="/images/flappybird.gif" style="width:100%; height:12cm;">
+</div>
+
 <a href=https://github.com/JavierAM01/Juego-FlappyBird> ver código </a>
 
 ## Ajedrez <a name=id1.4> </a>
+
+<div style="text-align:center;">
+  <image src="/images/ajedrez.gif" style="width:100%; height:12cm;">
+</div>
 
 <a href=https://github.com/JavierAM01/Juego-Ajedrez> ver código </a>
 
