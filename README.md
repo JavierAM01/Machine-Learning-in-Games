@@ -8,9 +8,10 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
  
  1. [Desarrollo de videojuegos](#id1)
     - [Snake](#id1.1)
-    - [Sudoku](#id1.2)
-    - [Flappy Bird](#id1.3)
-    - [Ajedrez](#id1.4)
+    - [3 en raya](#id1.2)
+    - [Sudoku](#id1.3)
+    - [Flappy Bird](#id1.4)
+    - [Ajedrez](#id1.5)
     - [Laberinto](#id1.6)
     - [Arkanoid](#id1.7)
 
@@ -35,7 +36,15 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 <a href=https://github.com/JavierAM01/Juego-Snake> ver código </a>
 
-## Sudoku <a name=id1.2> </a>
+## 3 en raya <a name=id1.2> </a>
+
+<div style="text-align:center;">
+  <image src="/images/3enraya.gif" style="width:100%; height:12cm;">
+</div>
+
+<a href=https://github.com/JavierAM01/Juego-3enRaya> ver código </a>
+ 
+## Sudoku <a name=id1.3> </a>
 
 <div style="text-align:center;">
   <image src="/images/sudoku.gif" style="width:100%; height:12cm;">
@@ -43,7 +52,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 <a href=https://github.com/JavierAM01/Juego-Sudoku> ver código </a>
 
-## Flappy Bird <a name=id1.3> </a>
+## Flappy Bird <a name=id1.4> </a>
 
 <div style="text-align:center;">
   <image src="/images/flappybird.gif" style="width:100%; height:12cm;">
@@ -51,7 +60,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 <a href=https://github.com/JavierAM01/Juego-FlappyBird> ver código </a>
 
-## Ajedrez <a name=id1.4> </a>
+## Ajedrez <a name=id1.5> </a>
 
 <div style="text-align:center;">
   <image src="/images/ajedrez.gif" style="width:100%; height:12cm;">
