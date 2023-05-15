@@ -8,7 +8,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
  
  1. [Desarrollo de videojuegos](#id1)
     - [Snake](#id1.1)
-    - [3 en raya](#id1.2)
+    - [Tres en raya](#id1.2)
     - [Sudoku](#id1.3)
     - [Flappy Bird](#id1.4)
     - [Ajedrez](#id1.5)
@@ -21,6 +21,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
  3. [Algortimos de aprendizaje automático](#id3)
     - [Flappy Bird - Algoritmo Genético](#id3.1)
+    - [Tres en raya - ML Models](#id3.2)
 
 
 
@@ -36,7 +37,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 <a href=https://github.com/JavierAM01/Juego-Snake> ver código </a>
 
-## 3 en raya <a name=id1.2> </a>
+## Tres en raya <a name=id1.2> </a>
 
 <div style="text-align:center;">
   <image src="/images/3enraya.gif" style="width:100%; height:12cm;">
@@ -110,6 +111,10 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 ## Flappy Bird - Algoritmo Genético <a name=id3.1> </a>
 
 <a href=https://github.com/JavierAM01/Juego-FlappyBird-AlgoritmoGenetico> ver código </a>
+
+## Tres en raya - ML Models <a name=id3.2> </a>
+
+<a href=https://github.com/JavierAM01/Juego-3enRaya-ML> ver código </a>
 
 
 
