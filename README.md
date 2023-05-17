@@ -40,61 +40,6 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 | <image src="/images/arkanoid.gif" style="width:100%; height:6cm;">|   [Arkanoid](https://github.com/JavierAM01/Juego-Arkanoid) |
 
 
-## Snake <a name=id1.1> </a>
-   
-<a href=https://github.com/JavierAM01/Juego-Snake> ver código </a>
-
-## Tres en raya <a name=id1.2> </a>
-
-<div style="text-align:center;">
-  <image src="/images/3enraya.gif" style="width:100%; height:12cm;">
-</div>
-
-<a href=https://github.com/JavierAM01/Juego-3enRaya> ver código </a>
- 
-## Sudoku <a name=id1.3> </a>
-
-<div style="text-align:center;">
-  <image src="/images/sudoku.gif" style="width:100%; height:12cm;">
-</div>
-
-<a href=https://github.com/JavierAM01/Juego-Sudoku> ver código </a>
-
-## Flappy Bird <a name=id1.4> </a>
-
-<div style="text-align:center;">
-  <image src="/images/flappybird.gif" style="width:100%; height:12cm;">
-</div>
-
-<a href=https://github.com/JavierAM01/Juego-FlappyBird> ver código </a>
-
-## Ajedrez <a name=id1.5> </a>
-
-<div style="text-align:center;">
-  <image src="/images/ajedrez.gif" style="width:100%; height:12cm;">
-</div>
-
-<a href=https://github.com/JavierAM01/Juego-Ajedrez> ver código </a>
-
-## Laberinto <a name=id1.6> </a>
-
-<div style="text-align:center;">
-  <image src="/images/laberinto.gif" style="width:100%; height:12cm;">
-</div>
-
-<a href=https://github.com/JavierAM01/Juego-Laberinto-Versiones> ver código </a>
-
-## Arkanoid <a name=id1.7> </a>
-
-<div style="text-align:center;">
-  <image src="/images/arkanoid.gif" style="width:100%; height:12cm;">
-</div>
-
-<a href=https://github.com/JavierAM01/Juego-Arkanoid> ver código </a>
-
-
-
-
 
 
 # Algoritmos de resolución sencillos <a name=id2> </a>
