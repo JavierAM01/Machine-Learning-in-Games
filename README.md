@@ -19,9 +19,9 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
     - [Sudoku](#id2.1)
     - [Find the Shortest Path](#id2.2)
 
- 3. [Algortimos de aprendizaje automático](#id3)
-    - [Flappy Bird - Algoritmo Genético](#id3.1)
-    - [Tres en raya - ML Models](#id3.2)
+ 3. [Algoritmos de aprendizaje automático](#id3)
+    - [Algoritmo Genético - Flappy Bird](#id3.1)
+    - [Introducción a diferentes modelos de IA - Tres en raya](#id3.2)
 
 
 
@@ -115,13 +115,13 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 # Algoritmos de aprendizaje automático <a name=id3> </a>
 
-## Flappy Bird - Algoritmo Genético <a name=id3.1> </a>
+## Algoritmo Genético - Flappy Bird <a name=id3.1> </a>
 
-<a href=https://github.com/JavierAM01/Juego-FlappyBird-AlgoritmoGenetico> ver código </a>
+<a href=https://github.com/JavierAM01/AlgoritmoGenetico-FlappyBird> ver código </a>
 
-## Tres en raya - ML Models <a name=id3.2> </a>
+## Introducción a diferentes modelos de IA - Tres en raya <a name=id3.2> </a>
 
-<a href=https://github.com/JavierAM01/Juego-3enRaya-ML> ver código </a>
+<a href=https://github.com/JavierAM01/Introduction-to-different-AI-models> ver código </a>
 
 
 
