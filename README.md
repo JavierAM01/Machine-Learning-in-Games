@@ -30,14 +30,21 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 # Desarrollo de videojuegos <a name=id1> </a>
 
 |              Preview             |     Link     |
-|--------------------------------------------------------------------|--------------|
-| <image src="/images/snake.gif" style="width:100%; height:6cm;">    |  [Snake](https://github.com/JavierAM01/Juego-Snake)   |
+|--------------------------------------------------------------------|--------------| 
+<a name=id1.1> </a>
+| <image src="/images/snake.gif" style="width:100%; height:6cm;">    |  [Snake](https://github.com/JavierAM01/Juego-Snake)   | 
+<a name=id1.2> </a>
 | <image src="/images/3enraya.gif" style="width:100%; height:6cm;">  |  [Tres en raya](https://github.com/JavierAM01/Juego-3enRaya)   |
+<a name=id1.3> </a>
 | <image src="/images/sudoku.gif" style="width:100%; height:6cm;">   |  [Sudoku](https://github.com/JavierAM01/Juego-Sudoku)            |
+<a name=id1.4> </a>
 | <image src="/images/flappybird.gif" style="width:100%; height:6cm;">| [Flappy Bird](https://github.com/JavierAM01/Juego-FlappyBird)|
-| <image src="/images/ajedrez.gif" style="width:100%; height:6cm;">|    [Ajedrez](https://github.com/JavierAM01/Juego-Ajedrez)        |
+<a name=id1.5> </a>
+| <image src="/images/ajedrez.gif" style="width:100%; height:6cm;">  |    [Ajedrez](https://github.com/JavierAM01/Juego-Ajedrez)        |
+<a name=id1.6> </a>
 | <image src="/images/laberinto.gif" style="width:100%; height:6cm;">|  [Laberinto](https://github.com/JavierAM01/Juego-Laberinto-Versiones)|
-| <image src="/images/arkanoid.gif" style="width:100%; height:6cm;">|   [Arkanoid](https://github.com/JavierAM01/Juego-Arkanoid) |
+<a name=id1.7> </a>
+| <image src="/images/arkanoid.gif" style="width:100%; height:6cm;"> |   [Arkanoid](https://github.com/JavierAM01/Juego-Arkanoid) |
 
 
 
