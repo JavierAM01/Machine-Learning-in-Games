@@ -52,8 +52,11 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 ## Find the Shortest Path <a name=id2.2> </a>
 
-<a href=https://github.com/JavierAM01/Juego-ShortestPath> ver código </a>
-
+|                  Preview                |    Algorithm     |
+|-----------------------------------------|------------------|
+| <image src="/images/algo1.gif" width="250" height="250"> | Algoritmo de [Dijkstra](https://es.wikipedia.org/wiki/Algoritmo_de_Dijkstra). El algoritmo de Dijkstra es un algoritmo de búsqueda de caminos más cortos en un grafo ponderado. Se utiliza para encontrar la ruta más corta desde un nodo de origen a todos los demás nodos en un grafo dirigido o no dirigido. Funciona asignando una distancia provisional a cada nodo y actualizando estas distancias a medida que se explora el grafo, siempre seleccionando el nodo con la distancia provisional más pequeña hasta llegar al nodo de destino o a todos los nodos alcanzables desde el nodo de origen. <p align="center"><a href=https://github.com/JavierAM01/Juego-ShortestPath> ver código </a></p>|
+| <img src="/images/algo2.gif" width="250" height="250"> | Modificación del algortimo de Dijkstra. A este se le añade el hecho de que el camino más corto entre dos puntos es una línea recta, así acortamos la búsqueda en algunas ocasiones. <p align="center"><a href=https://github.com/JavierAM01/Juego-ShortestPath> ver código </a></p>|
+   
 
 
 
