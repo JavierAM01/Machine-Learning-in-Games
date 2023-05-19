@@ -1,3 +1,5 @@
+[Repositorio en proceso]
+
 Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 secciones principales. 
 
    1) **Desarrollo de videojuegos.** Creación de videojuegos para uso común del usuario.
