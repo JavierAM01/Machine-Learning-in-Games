@@ -76,11 +76,13 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 ## Algoritmo Genético - Flappy Bird <a name=id3.1> </a>
 
-<a href=https://github.com/JavierAM01/AlgoritmoGenetico-FlappyBird> ver código </a>
+|                  Preview                |    Algorithm     |
+|-----------------------------------------|------------------|
+| <img src="/images/ai/flappybird.gif" height="300" width="170"> | En este proyecto, exploramos la poderosa aplicación de un algoritmo genético en la resolución del desafiante juego Flappy Bird. Mediante la representación de las aves como individuos en una población y la aplicación de operadores genéticos como selección, cruzamiento y mutación, buscamos encontrar la combinación óptima de características y comportamientos que maximicen la habilidad de evitar obstáculos y obtener puntuaciones altas. A través de la optimización iterativa basada en la evaluación de fitness y la evolución generacional, el algoritmo genético converge hacia soluciones cada vez mejores. Descubre cómo esta técnica matemática nos permite abordar problemas complejos y lograr resultados impresionantes en el contexto del Flappy Bird. <p align="center"><a href=https://github.com/JavierAM01/AlgoritmoGenetico-FlappyBird> ver código </a></p> |
 
 ## Introducción a diferentes modelos de IA - Tres en raya <a name=id3.2> </a>
 
-<a href=https://github.com/JavierAM01/Introduction-to-different-AI-models> ver código </a>
+TODO
 
 
 
