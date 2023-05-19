@@ -42,7 +42,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 <a name=id1.5> </a>
 | <image src="/images/ajedrez.gif" style="width:100%; height:6cm;">  |    [Ajedrez](https://github.com/JavierAM01/Juego-Ajedrez)        |
 <a name=id1.6> </a>
-| <image src="/images/laberinto.gif" style="width:100%; height:6cm;">|  [Laberinto](https://github.com/JavierAM01/Juego-Laberinto-Versiones)|
+| <image src="/images/laberinto.gif" style="width:100%; height:6cm;">|  [Laberinto](https://github.com/JavierAM01/Juego-Laberinto)|
 <a name=id1.7> </a>
 | <image src="/images/arkanoid.gif" style="width:100%; height:6cm;"> |   [Arkanoid](https://github.com/JavierAM01/Juego-Arkanoid) |
 
