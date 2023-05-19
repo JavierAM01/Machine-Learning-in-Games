@@ -19,7 +19,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
  2. [Algoritmos de resolución sencillos](#id2)
     - [Sudoku](#id2.1)
-    - [Find the Shortest Path](#id2.2)
+    - [Búsqueda del camino más corto](#id2.2)
 
  3. [Algoritmos de aprendizaje automático](#id3)
     - [Algoritmo Genético - Flappy Bird](#id3.1)
@@ -61,7 +61,7 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 | <image src="/images/sudoku-2.png" width="250" height="250"> | En este repositorio, presento una versión más humana del algoritmo de resolución de Sudoku. En lugar de depender únicamente de la recursividad, esta versión utiliza diferentes técnicas para encontrar las posibilidades de cada casilla vacía en función de las filas, columnas y bloques en el tablero. Mediante un enfoque meticuloso, se exploran diferentes estrategias para reducir las opciones y tomar decisiones informadas en cada paso. Además, se incorporan métodos más avanzados que permiten identificar patrones y realizar inferencias lógicas. Esta nueva implementación proporciona una experiencia más cercana a la forma en que los humanos abordan y resuelven los Sudokus, lo que brinda una perspectiva interesante sobre las técnicas de resolución del juego. <p>El código está hecho en Haskell, por lo que los gráficos son más primitivos.</p> <p align="center"><a href=https://github.com/JavierAM01/Juego-Sudoku-2> ver código </a></p> |
 
 
-## Find the Shortest Path <a name=id2.2> </a>
+## Búsqueda del camino más corto <a name=id2.2> </a>
 
 |                  Preview                |    Algorithm     |
 |-----------------------------------------|------------------|
