@@ -55,9 +55,11 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 ## Sudoku <a name=id2.1> </a>
 
-<a href=https://github.com/JavierAM01/Juego-Sudoku> ver código </a>
+|                  Preview                |    Algorithm     |
+|-----------------------------------------|------------------|
+| <image src="/images/sudoku.gif" width="250" height="250"> | El algoritmo de resolución de Sudoku utiliza la recursividad para resolver este desafiante rompecabezas. La idea principal es descomponer el problema en subproblemas más pequeños y resolverlos de forma recursiva. El algoritmo busca una casilla vacía en el tablero y prueba diferentes números del 1 al 9 para colocar en esa casilla, verificando si cumple con las reglas del Sudoku. Si se encuentra una solución válida, se avanza a la siguiente casilla vacía y se repite el proceso. Si no se encuentra una solución válida, se retrocede y se prueba con otro número. Este proceso continúa hasta llenar todas las casillas o hasta encontrar una solución completa. La recursividad permite explorar todas las combinaciones posibles de números de manera eficiente. <p align="center"><a href=https://github.com/JavierAM01/Juego-Sudoku> ver código </a></p> |
+| <image src="/images/sudoku-2.png" width="250" height="250"> | En este repositorio, presento una versión mejorada y más humana del algoritmo de resolución de Sudoku. En lugar de depender únicamente de la recursividad, esta versión utiliza diferentes técnicas para encontrar las posibilidades de cada casilla vacía en función de las filas, columnas y bloques en el tablero. Mediante un enfoque meticuloso, se exploran diferentes estrategias para reducir las opciones y tomar decisiones informadas en cada paso. Además, se incorporan métodos más avanzados que permiten identificar patrones y realizar inferencias lógicas. Esta nueva implementación proporciona una experiencia más cercana a la forma en que los humanos abordan y resuelven los Sudokus, lo que brinda una perspectiva interesante sobre las técnicas de resolución del juego. <p>El código está hecho en Haskell, por lo que los gráficos son más primitivos.</p> <p align="center"><a href=https://github.com/JavierAM01/Juego-Sudoku-2> ver código </a></p> |
 
-<a href=https://github.com/JavierAM01/Juego-Sudoku-2> ver código </a>
 
 ## Find the Shortest Path <a name=id2.2> </a>
 
