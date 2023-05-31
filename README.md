@@ -82,7 +82,10 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 ## Introducción a diferentes modelos de IA - Tres en raya <a name=id3.2> </a>
 
-TODO
+|                  Preview                |    Algorithm     |
+|-----------------------------------------|------------------|
+| <img src="https://github.com/JavierAM01/Introduction-to-different-AI-models/blob/main/images/MCTS/winner.gif" height="300" width="250"> | <p>En este repositorio, llevamos a cabo una comparación de tres tipos de algoritmos:</p> <p> 1) Redes Neuronales,</p> <p> 2) Aprendizaje por Refuerzo</p> <p> 3) Árboles de Búsqueda de Monte Carlo.</p> <p>Con este propósito, creamos un modelo para cada uno de ellos y los entrenamos con el objetivo de jugar al juego del 3 en raya. Mediante esta comparativa, buscamos analizar y evaluar el rendimiento y las capacidades de cada algoritmo en la resolución de este desafío estratégico.</p> <p align="center"><a href=https://github.com/JavierAM01/Introduction-to-different-AI-models> ver código </a></p> |
+
 
 
 
