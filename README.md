@@ -74,6 +74,12 @@ Biblioteca de Juegos y Algoritmos de Aprendizaje. En el nos encontramos 3 seccio
 
 # Algoritmos de aprendizaje automático <a name=id3> </a>
 
+## AIGym - CartPole
+
+|                  Preview                |    Algorithm     |
+|-----------------------------------------|------------------|
+| <img src="/images/ai/CartPole.gif" height="250" width="250"> | El entorno CartPole es un desafío clásico en el campo del aprendizaje por refuerzo, donde el objetivo es equilibrar un poste sobre un carrito mediante la aplicación de acciones discretas. En este repositorio, encontrarás diferentes enfoques para resolver este problema utilizando algoritmos como Q-Learning, Deep Q-Networks (DQN), Policy Gradient, entre otros. <p align="center"><a href=https://github.com/JavierAM01/AIGym-CartPole> ver código </a></p> |
+
 ## Algoritmo Genético - Flappy Bird <a name=id3.1> </a>
 
 |                  Preview                |    Algorithm     |
